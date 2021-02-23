@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Yash Karandikar :grinning: 
+---
+🔭 I’m currently working on *Wacky Blackjack*, a blackjack game for Android that gives the player power-ups\
+🌱 I’m currently learning my data structures\
+⚡ Fun fact: My favorite data structure so far is linked list 
+
+### My stats
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y0shK&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y0shK&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **y0shK/y0shK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
