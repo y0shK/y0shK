@@ -1,8 +1,8 @@
 ### Hi there, I'm Yash Karandikar :grinning: 
 ---
 🔭 I’m currently working on *Wacky Blackjack*, a blackjack game for Android that gives the player power-ups\
-🌱 I’m currently learning my data structures\
-⚡ Fun fact: My favorite data structure so far is linked list 
+🌱 I’m currently taking Data Structures\
+⚡ Fun fact: My favorite data structure so far is stack
 
 ### My stats
 ---
