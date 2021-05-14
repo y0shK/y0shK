@@ -1,8 +1,8 @@
 ### Hi there, I'm Yash Karandikar :grinning: 
 ---
-🔭 I’m currently working on *Wacky Blackjack*, a blackjack game for Android that gives the player power-ups\
-🌱 I’m currently taking Data Structures\
-⚡ Fun fact: My favorite data structure so far is stack
+🔭 I’m currently working on covid19_nlp, a Jupyter Notebook that uses natural language processing on COVID-19 tweets for keyword extraction and sentiment analysis \
+🌱 I’m taking Natural Language Processing in the fall semester \
+⚡ Fun fact: My favorite data structure so far is heap
 
 ### My stats
 ---
