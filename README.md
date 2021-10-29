@@ -1,8 +1,8 @@
 ### Hi there, I'm Yash Karandikar :grinning: 
 ---
-🔭 I’m currently working on covid19_nlp, a Jupyter Notebook that uses natural language processing on COVID-19 tweets for keyword extraction and sentiment analysis \
-🌱 I’m taking Natural Language Processing in the fall semester \
-⚡ Fun fact: My favorite data structure so far is heap
+🔭 I’m currently working on a project to analyze online doctors' reviews to extract features of patient care that are most important to reviewers \
+🌱 I’m taking Natural Language Processing \
+⚡ Fun fact: My favorite concept to teach in Intro to Comp Sci is the idea of object-oriented programming
 
 ### My stats
 ---
