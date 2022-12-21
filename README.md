@@ -1,8 +1,9 @@
 ### Hi there, I'm Yash Karandikar
 ---
-🔭 I'm currently working on learning React \
-🌱 I enjoyed taking Natural Language Processing \
+🔭 I'm currently working on learning techniques for test automation in QA \
+🌱 I enjoyed taking Natural Language Processing and Computability & Complexity \
 ⚡ Fun fact: My favorite concept to teach in Intro to Comp Sci is the idea of object-oriented programming
+😄 Pronouns: he/him
 
 ### My stats
 ---
