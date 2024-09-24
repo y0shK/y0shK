@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash Karandikar
 ---
-🔭 I'm currently working on learning techniques for test automation in QA \
+🔭 I'm currently exploring job opportunities in software engineering and project opportunities in recommendation/graph theory/social networks \
 🌱 I enjoyed taking Natural Language Processing, Algorithms Analysis, and Graph Theory \
 ⚡ Fun fact: My favorite concept to teach to CS beginners is the idea of object-oriented programming \
 😄 Pronouns: he/him
